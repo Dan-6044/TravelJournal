@@ -1,6 +1,6 @@
 
 .card{
-    flex: 0 0 calc(33.33% - 20px); /* 3 items in each row */
+    flex: 0 0 calc(23.33% - 10px); /* 3 items in each row */
     text-align: center;
     padding: 20px;
     background-color: #fff; /* White card background */
