@@ -1,25 +1,27 @@
 
+
 .card{
     flex: 0 0 calc(23.33% - 10px); /* 3 items in each row */
     text-align: center;
-    padding: 20px;
+    height: 23vh;
     background-color: #fff; /* White card background */
     border-radius: 10px;
+    padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .cardImage{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   
 }
 .card--title{
-    font-size: 16px;
+    font-size: 10px;
     margin-bottom: 5px;
 }
 .card--desc{
-    font-size: 14px;
+    font-size: 9px;
     color: #3b3a3a;
 }

@@ -17,12 +17,12 @@ const data = [
         title: "Lake Exploration",
         description: "Surfing on the lakes during summer and a little fishing to explore the lake products",
       },
-      {
-        id: 4,
-        image:"/images/waterfall.jpg",
-        title: "Waterfall Experience",
-        description: "Having to experience explicite humidity and the breeze at waterfall",
-      },
+      // {
+      //   id: 4,
+      //   image:"/images/waterfall.jpg",
+      //   title: "Waterfall Experience",
+      //   description: "Having to experience explicite humidity and the breeze at waterfall",
+      // },
     
   ];
   
